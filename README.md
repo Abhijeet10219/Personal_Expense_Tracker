@@ -92,7 +92,7 @@ personal-expense-tracker/
 
 ## Data Storage 📊
 
-Expenses are stored in `expenses.txt` in CSV format with the following structure:
+Expenses are stored in `expenses.txt` in txt file with the following structure:
 ```
 Date,Category,Description,Amount
 2024-01-04,Food,Lunch,250.00
