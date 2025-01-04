@@ -35,7 +35,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/personal-expense-tracker.git
+git clone https://github.com/Abhijeet10219/personal-expense-tracker.git
 cd personal-expense-tracker
 ```
 
